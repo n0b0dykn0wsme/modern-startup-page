@@ -1,0 +1,43 @@
+/*
+Start Page CSS, by JaydenDevelopment -- The FreeCat developers
+*/
+
+/* This CSS is cool right? */
+
+body {
+  background-color: white;
+}
+
+* {
+  color: white;
+  font-family: monospace;
+}
+
+p {
+  font-size: 10pt;
+  color: white;
+}
+
+.global-navbar-hl-purple {
+  background-color: purple;
+  border-radius: 5pt;
+  padding: 5pt;
+  
+}
+
+.global-element-hl-purple {
+  background-color: purple;
+  border-radius: 5pt;
+  margin: 0 auto;
+  padding: 5pt;
+}
+
+.purple-tile {
+  background-color: purple;
+  border-radius: 5pt;
+  margin: 0 auto;
+  padding: 5pt;
+  width: 15%;
+  height: 15%;
+  float: left;
+}
