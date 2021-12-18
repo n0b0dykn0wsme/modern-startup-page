@@ -4,13 +4,16 @@ Start Page CSS, by JaydenDevelopment -- The FreeCat developers
 
 /* This CSS is cool right? */
 
+/* Dependencies */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 body {
   background-color: white;
 }
 
 * {
   color: white;
-  font-family: monospace;
+  font-family: 'Roboto', sans-serif;
 }
 
 p {
@@ -18,10 +21,21 @@ p {
   color: white;
 }
 
+.clean-ul {
+  list-style-type: none;
+}
+
+.center-element {
+  display: flex;
+  justify-content: center;
+}
+
 .global-navbar-hl-purple {
   background-color: purple;
   border-radius: 5pt;
   padding: 5pt;
+  /*display: flex;
+  justify-content: center; */
   
 }
 
