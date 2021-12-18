@@ -1,11 +1,11 @@
 /*
-Start Page CSS, by JaydenDevelopment -- The FreeCat developers
+Thanks JaydenDev!
 */
 
 /* This CSS is cool right? */
 
 /* Dependencies */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nuntio:wght@100&display=swap');
 
 body {
   background-color: white;
@@ -13,7 +13,7 @@ body {
 
 * {
   color: white;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Nuntio', sans-serif;
 }
 
 p {
@@ -30,8 +30,8 @@ p {
   justify-content: center;
 }
 
-.global-navbar-hl-purple {
-  background-color: purple;
+.global-navbar-hl-blue {
+  background-color: blue;
   border-radius: 5pt;
   padding: 5pt;
   /*display: flex;
@@ -39,15 +39,15 @@ p {
   
 }
 
-.global-element-hl-purple {
-  background-color: purple;
+.global-element-hl-blue {
+  background-color: blue;
   border-radius: 5pt;
   margin: 0 auto;
   padding: 5pt;
 }
 
-.purple-tile {
-  background-color: purple;
+.blue-tile {
+  background-color: blue;
   border-radius: 5pt;
   margin: 0 auto;
   padding: 5pt;
